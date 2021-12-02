@@ -19,8 +19,6 @@ I'm looking for solutions that are not available in the options, so I am one ste
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvardin&layout=compact&hide=html" alt="Ardin" />
 </p>
 
-----
-
 Credit: [Ardin](https://github.com/mvardin)
 
 Last Edited on: 2021-12-02
