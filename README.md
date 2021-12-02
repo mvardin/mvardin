@@ -1,7 +1,12 @@
 <h1 align="center">I AM Ardin :)</h1>
-<h3 align="center">I'm Ardin, a .NET programmer who specializes in web
+<h3 align="center">
+I'm Ardin, a .NET programmer who specializes in web.
+    
 In addition to the web, I have done many projects on Windows and Linux.
-I'm looking for solutions that are not available in the options, so I am one step ahead of the rest </h3>
+  
+  
+I'm looking for solutions that are not available in the options, so I am one step ahead of the rest .
+</h3>
 
 
 
